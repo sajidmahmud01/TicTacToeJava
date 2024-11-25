@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="upei.project.TicTacToeTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-11-24T02:39:12" hostname="SAJIDMAHMUDSPC" time="0.129">
+  <properties/>
+  <testcase name="testPlayMoveValid()" classname="upei.project.TicTacToeTest" time="0.041"/>
+  <testcase name="testPlayMoveInvalidOutOfBounds()" classname="upei.project.TicTacToeTest" time="0.005"/>
+  <testcase name="testIsBoardFull()" classname="upei.project.TicTacToeTest" time="0.003"/>
+  <testcase name="testBlockingPlayerMove()" classname="upei.project.TicTacToeTest" time="0.008"/>
+  <testcase name="testInitializeBoard()" classname="upei.project.TicTacToeTest" time="0.004"/>
+  <testcase name="testCheckWinnerAntiDiagonal()" classname="upei.project.TicTacToeTest" time="0.004"/>
+  <testcase name="testCheckWinnerRow()" classname="upei.project.TicTacToeTest" time="0.002"/>
+  <testcase name="testRandomPlayerMove()" classname="upei.project.TicTacToeTest" time="0.002"/>
+  <testcase name="testCheckWinnerColumn()" classname="upei.project.TicTacToeTest" time="0.004"/>
+  <testcase name="testCheckWinnerMainDiagonal()" classname="upei.project.TicTacToeTest" time="0.004"/>
+  <testcase name="testPlayMoveInvalidOccupied()" classname="upei.project.TicTacToeTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
